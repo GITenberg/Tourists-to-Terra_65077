@@ -1,0 +1,27 @@
+_repo: Tourists-to-Terra_65077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - Mallory, Mark
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: https://en.wikipedia.org/wiki/Mack_Reynolds
+description: ''
+gutenberg_issued: '2021-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tourists to Terra
+url: http://www.gutenberg.org/ebooks/65077
